@@ -1,0 +1,10 @@
+C:\Users\2jd\Documents\Trabalho Nivia\AtividadeNivia\AtividadeNivia\bin\Debug\AtividadeNivia.exe.config
+C:\Users\2jd\Documents\Trabalho Nivia\AtividadeNivia\AtividadeNivia\bin\Debug\AtividadeNivia.exe
+C:\Users\2jd\Documents\Trabalho Nivia\AtividadeNivia\AtividadeNivia\bin\Debug\AtividadeNivia.pdb
+C:\Users\2jd\Documents\Trabalho Nivia\AtividadeNivia\AtividadeNivia\obj\Debug\AtividadeNivia.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Trabalho Nivia\AtividadeNivia\AtividadeNivia\obj\Debug\AtividadeNivia.Form1.resources
+C:\Users\2jd\Documents\Trabalho Nivia\AtividadeNivia\AtividadeNivia\obj\Debug\AtividadeNivia.Properties.Resources.resources
+C:\Users\2jd\Documents\Trabalho Nivia\AtividadeNivia\AtividadeNivia\obj\Debug\AtividadeNivia.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Trabalho Nivia\AtividadeNivia\AtividadeNivia\obj\Debug\AtividadeNivia.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Trabalho Nivia\AtividadeNivia\AtividadeNivia\obj\Debug\AtividadeNivia.exe
+C:\Users\2jd\Documents\Trabalho Nivia\AtividadeNivia\AtividadeNivia\obj\Debug\AtividadeNivia.pdb
